@@ -1,0 +1,14 @@
+# Eclipse project files
+.classpath
+.project
+.settings
+build
+bin
+*.jks
+log/
+
+# Maven output
+target
+*.releaseBackup
+release.properties
+pom.xml.versionsBackup
